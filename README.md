@@ -39,7 +39,7 @@ Make sure you have the following installed:
 
 ### 📦 Installation Steps
 # 1. Clone the repository
-git clone https://github.com/Wreckster04/RecipeVault.git
+git clone https://github.com/Arsenal8898/Recipe_App.git
 cd RecipeVault
 
 # 2. Install project dependencies
